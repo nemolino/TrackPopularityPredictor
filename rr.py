@@ -4,7 +4,10 @@ from sklearn.base import BaseEstimator, RegressorMixin
 class RidgeRegression(BaseEstimator, RegressorMixin):
 
     def __init__(self, λ = 1.0):
+        
+        if λ < 0: raise ValueError("λ must be >= 0")
         self.λ = λ
+        
         self.w_ = None
 
     def fit(self, X, y):
