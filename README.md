@@ -4,15 +4,8 @@ Project for the ***Statistical Methods for Machine Learning*** course (2023 edit
 
 ### (Kernel) Ridge Regression
 
-Download the [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) and perform ridge regression to predict the tracks’ popularity.<br>
-Note that this dataset contains both numerical and categorical features.<br> 
-The student is thus required to follow these guidelines:
-- first, train the model using only the numerical features,
-- second, appropriately handle the categorical features (for example, with one-hot encoding or other techniques) and use them together with the numerical ones to train the model,
-- in both cases, experiment with different training parameters,
-- use 5-fold cross validation to compute your risk estimates,
-- thoroughly discuss and compare the performance of the model
-
-The student is required to implement from scratch (without using libraries, such as Scikit-learn) the code for the ridge regression, while it is not mandatory to do so for the implementation of the 5-fold cross-validation.
-
-**Optional**: Instead of regular ridge regression, implement kernel ridge regression using a Gaussian kernel.
+* [ridge_regression.py](https://github.com/nemolino/TrackPopularityPredictor/blob/main/ridge_regression.py) contains my implementation of Ridge regression
+* [kernel_ridge_regression.py](https://github.com/nemolino/TrackPopularityPredictor/blob/main/kernel_ridge_regression.py) contains my implementation of Kernel Ridge regression
+* [dataset_analysis_cleaning.ipynb](https://github.com/nemolino/TrackPopularityPredictor/blob/main/dataset_analysis_cleaning.ipynb) is the notebook in which I explore and clean the [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) 
+* [predictions_numerical.ipynb](https://github.com/nemolino/TrackPopularityPredictor/blob/main/predictions_numerical.ipynb) is the notebook in which the predictors are tested using only the numerical features of the data
+* [predictions_all.ipynb](https://github.com/nemolino/TrackPopularityPredictor/blob/main/predictions_all.ipynb) is the notebook in which the predictors are tested using all the features of the data
