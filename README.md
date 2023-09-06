@@ -4,6 +4,7 @@ Project for the ***Statistical Methods for Machine Learning*** course (2023 edit
 
 ### (Kernel) Ridge Regression
 
+* [report.pdf](https://github.com/nemolino/TrackPopularityPredictor/blob/main/report.pdf) contains the project report
 * [ridge_regression.py](https://github.com/nemolino/TrackPopularityPredictor/blob/main/ridge_regression.py) contains my implementation of Ridge regression
 * [kernel_ridge_regression.py](https://github.com/nemolino/TrackPopularityPredictor/blob/main/kernel_ridge_regression.py) contains my implementation of Kernel Ridge regression
 * [dataset_analysis_cleaning.ipynb](https://github.com/nemolino/TrackPopularityPredictor/blob/main/dataset_analysis_cleaning.ipynb) is the notebook in which I explore and clean the [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) 
