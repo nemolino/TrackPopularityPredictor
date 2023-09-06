@@ -1,6 +1,6 @@
 # TrackPopularityPredictor
 
-Project for the ***Statistical Methods for Machine Learning*** course (2023 edition) held by Nicolò Cesa-Bianchi at *University of Milan*
+Project for the ***Statistical Methods for Machine Learning*** course (2023 edition) taught by Nicolò Cesa-Bianchi at *University of Milan*
 
 ### (Kernel) Ridge Regression
 
