@@ -4,9 +4,10 @@ Project for the ***Statistical Methods for Machine Learning*** course (2023 edit
 
 ### (Kernel) Ridge Regression
 
-* The project report is in [report.pdf](https://github.com/nemolino/TrackPopularityPredictor/blob/main/report.pdf)
-* My implementation of Ridge regression is in [ridge_regression.py](https://github.com/nemolino/TrackPopularityPredictor/blob/main/ridge_regression.py)
-* My implementation of Kernel Ridge regression is in [kernel_ridge_regression.py](https://github.com/nemolino/TrackPopularityPredictor/blob/main/kernel_ridge_regression.py)
-* The [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) is explored and cleaned in [dataset_analysis_cleaning.ipynb](https://github.com/nemolino/TrackPopularityPredictor/blob/main/dataset_analysis_cleaning.ipynb)
-* The predictors are tested using only the numerical features of the data in [predictions_numerical.ipynb](https://github.com/nemolino/TrackPopularityPredictor/blob/main/predictions_numerical.ipynb)
-* The predictors are tested using all the features of the data in [predictions_all.ipynb](https://github.com/nemolino/TrackPopularityPredictor/blob/main/predictions_all.ipynb)
+* [Project report](https://github.com/nemolino/TrackPopularityPredictor/blob/main/report.pdf)
+* [*Spotify* Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
+* [My implementation of Ridge regression](https://github.com/nemolino/TrackPopularityPredictor/blob/main/ridge_regression.py)
+* [My implementation of Kernel Ridge regression](https://github.com/nemolino/TrackPopularityPredictor/blob/main/kernel_ridge_regression.py)
+* [Exploration and cleaning of the *Spotify* Tracks Dataset](https://github.com/nemolino/TrackPopularityPredictor/blob/main/dataset_analysis_cleaning.ipynb)
+* [Test of the predictors using only the numerical features of the data](https://github.com/nemolino/TrackPopularityPredictor/blob/main/predictions_numerical.ipynb)
+* [Test of the predictors using all the features of the data](https://github.com/nemolino/TrackPopularityPredictor/blob/main/predictions_all.ipynb)
